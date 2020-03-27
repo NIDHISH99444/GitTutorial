@@ -1,2 +1,2 @@
-this is 1st design
-2nd design change
+Making again design pattern
+Modifying it 
