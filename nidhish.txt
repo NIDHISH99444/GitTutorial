@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 this is chand
-=======
-this is nidhish
->>>>>>> cb81ee2577fa67438fc79e031cd456e119c7b38d
+
